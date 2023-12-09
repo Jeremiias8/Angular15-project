@@ -1,4 +1,4 @@
 # Angular15-project
--> en CMD (consola)
-Frontend: cd food-project && ng serve
-Backend: cd backend && npm start
+Comandos para iniciar carpetas desde CMD (consola).
+- Frontend: cd food-project && ng serve
+- Backend: cd backend && npm start
